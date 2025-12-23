@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+venv/
+myenv/
+myenv311/
+
+build/
+dist/
+*.spec
+
+*.db
+Thumbs.db
